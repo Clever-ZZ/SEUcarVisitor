@@ -1,0 +1,2 @@
+# SEUcarVisitor
+SEU访客车辆入校预约，基于immortalwrt实现定时自动提交申请
